@@ -1,8 +1,11 @@
-autogen_agentchat
-autogen_core
-autogen_ext
-asyncio
-dotenv
+autogen-agentchat
+autogen-core
+autogen-ext
+autogen-ext[http-tool]
+autogen-ext[langchain]
 openai
-tiktoken
 pydantic
+tiktoken
+python-dotenv
+arxiv
+streamlit
